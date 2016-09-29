@@ -1,0 +1,5 @@
+/home/lealcy/Dev/SharpSquare/SharpSquare/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/lealcy/Dev/SharpSquare/SharpSquare/bin/Debug/SharpSquare.exe.mdb
+/home/lealcy/Dev/SharpSquare/SharpSquare/bin/Debug/SharpSquare.exe
+/home/lealcy/Dev/SharpSquare/SharpSquare/obj/x86/Debug/SharpSquare.exe
+/home/lealcy/Dev/SharpSquare/SharpSquare/obj/x86/Debug/SharpSquare.exe.mdb
