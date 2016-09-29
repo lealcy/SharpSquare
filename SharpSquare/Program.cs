@@ -8,7 +8,6 @@ namespace SharpSquare
         {
             double targetSqrt;
             double guess;
-            double product;
             double oldGuess;
             int steps;
 
@@ -25,9 +24,8 @@ namespace SharpSquare
                 while (true) {
                     steps++;
                     Console.WriteLine ("(Step {0}): SQRT({1}) = {2}", steps, targetSqrt, guess);
-                    product = targetSqrt / guess;
                     oldGuess = guess;
-                    guess = (product + guess) / 2.0;
+                    guess = ((targetSqrt / guess) + guess) / 2.0;
                     if (guess == oldGuess) {
                         break;
                     }
